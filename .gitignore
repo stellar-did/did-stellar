@@ -10,3 +10,6 @@
 /.agent/
 /agents/
 /agent/
+
+# Skills
+skills-lock.json
