@@ -1,0 +1,9 @@
+[submodule ".agents"]
+	path = .agents
+	url = https://github.com/stellar-did/agents
+[submodule ".claude"]
+	path = .claude
+	url = https://github.com/stellar-did/claude
+[submodule "internal-docs"]
+	path = internal-docs
+	url = https://github.com/stellar-did/internal-docs
