@@ -1,0 +1,12 @@
+# Internal documentation (not published with the repo)
+/internal-docs/
+
+# Claude / assistant local config
+/.claude/
+/claude/
+
+# Local agent tooling (root only)
+/.agents/
+/.agent/
+/agents/
+/agent/
